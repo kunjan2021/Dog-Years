@@ -13,4 +13,4 @@ Before you start doing the math in your head, let a computer take care of it! Wi
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
 
 
-https://www.princeton.edu/sites/default/files/styles/half_2x/public/images/2022/02/KOA_Nassau_2697x1517.jpg?itok=iQEwihUn
+![KOA_Nassau_2697x1517](https://user-images.githubusercontent.com/76856439/207761281-18bf09ba-94fe-4c58-ba0d-3301a6196cd0.jpg)
